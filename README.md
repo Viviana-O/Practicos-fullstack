@@ -21,6 +21,4 @@ She is working on JavaScript and learning how to manage projects with Git and Gi
 ### 🔹 How often is it updated?
 The project is updated every week with new exercises and improvements.
 
----
 
-*This README will evolve as the project grows.*
