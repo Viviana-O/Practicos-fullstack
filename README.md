@@ -22,3 +22,11 @@ She is working on JavaScript and learning how to manage projects with Git and Gi
 The project is updated every week with new exercises and improvements.
 
 
+# Curso de programación full stack  
+## MÓDULO 2 - Repositorio y WorkFlow  
+**Autor:** Viviana Ojeda  
+
+---
+
+**Descripción:**  
+Este repositorio fue creado con fines académicos, por lo que en el futuro cercano será eliminado.
